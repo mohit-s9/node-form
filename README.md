@@ -1,4 +1,11 @@
 # node-form
 
-This repository contains a form created using nodeJS,
-the data obtained from form fields is parsed in the form of chunks and stored in a buffer before outputing the data in console.
+This repository contains a form created using nodeJS.
+
+=> The data obtained from form field is parsed using chunks and stored in a buffer. 
+
+=> The request gets redirected to "/" route.
+
+=> Parsed data in buffer is outputted in console + written into a file(message.txt) using (file system module).
+
+#NOTE: There is NO requirement to run "npm install"
