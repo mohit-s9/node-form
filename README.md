@@ -1,8 +1,8 @@
 # node-form
 
-This repository contains a form created using nodeJS.
+This repository contains a form created using NodeJS.
 
-=> The data obtained from form field is parsed using chunks and stored in a buffer. 
+=> The data obtained from form field is parsed in chunks and stored in a buffer. 
 
 => The request gets redirected to "/" route.
 
