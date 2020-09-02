@@ -1,0 +1,29 @@
+{
+  "name": "node-form",
+  "version": "1.0.0",
+  "description": "This repository contains a form created using NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit-s9/node-form.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Node",
+    "JavaScript",
+    "Node-JS"
+  ],
+  "author": "Mohit Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit-s9/node-form/issues"
+  },
+  "homepage": "https://github.com/mohit-s9/node-form#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
